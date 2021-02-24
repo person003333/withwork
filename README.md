@@ -30,7 +30,7 @@ withwork는 상권분석 서비스로 지정한 지역의 유동인구와 업종
 
 #### 연령별 인구분포
 
-선택한 지역의 연령별 인구분포를 보여준다.
+선택한 지역의 연령별 인구분포를 보여준다. 
 
 ![image](https://user-images.githubusercontent.com/67899393/108781815-d9467f00-75ad-11eb-96f7-eda2ea3d9712.png)
 
